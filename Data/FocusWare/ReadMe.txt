@@ -4,6 +4,9 @@ This folder contains data relevant to FocusWare MSc Data Science projects.
 
 ## Useful Links
 
+Additional datasets
+* https://archive.ics.uci.edu/datasets
+
 Time-Series Clustering
 * https://www.heka.ai/en/our-publications/time-series-clustering
 * https://towardsdatascience.com/how-to-apply-k-means-clustering-to-time-series-data-28d04a8f7da3
